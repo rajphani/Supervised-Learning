@@ -11,9 +11,9 @@ This project depends on the following libraries.  Make sure you have them instal
 
 
 
-We will be using the iris flowers dataset, which contains 150 observations of iris flowers. There are four columns of measurements and the species of flower observed.  Only three species are present in this dataset.
+We will use the iris flowers dataset, which contains 150 observations of iris flowers. There are four columns of measurements and the species of flower observed.  Only three species are present in this dataset.
 
-The data can be loaded directly from the UCI Machine Learning Repository and Implementing the following supervised machine learning algorithms
+The data os loaded directly from the UCI Machine Learning Repository and Implementing the following supervised machine learning algorithms
 
 Logistic Regression (LR)
 K-Nearest Neighbors (KNN)
